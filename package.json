@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/elassri.meriem@gmail.com.lwc-l1z3axdk-fork-l2042ke7",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve MJK9if45H2zx44qUOLdK --open"
+  }
+}
